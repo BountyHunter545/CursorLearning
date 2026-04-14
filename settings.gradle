@@ -1,0 +1,4 @@
+rootProject.name = 'cursor-learning'
+
+include 'app'
+include 'functional-test'

@@ -1,0 +1,5 @@
+# Placeholder deployment definition.
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cursor-learning
