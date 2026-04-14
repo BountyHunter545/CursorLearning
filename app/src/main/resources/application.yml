@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: cursor-learning
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
